@@ -1,0 +1,4 @@
+# About ACM USD
+<p>ACM is organized into over 171 local chapters and 37 Special Interest Groups (SIGs), through which it conducts most of its activities. Additionally, there are over 500 college and university chapters. The first student chapter was founded in 1961 at the University of Louisiana at Lafayette.</p>
+<p>Many of the SIGs, such as SIGGRAPH, SIGPLAN, SIGCSE and SIGCOMM, sponsor regular conferences, which have become famous as the dominant venue for presenting innovations in certain fields. The groups also publish a large number of specialized journals, magazines, and newsletters.</p>
+<p>ACM also sponsors other computer science related events such as the worldwide ACM International Collegiate Programming Contest (ICPC), and has sponsored some other events such as the chess match between Garry Kasparov and the IBM Deep Blue computer.</p>
